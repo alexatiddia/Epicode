@@ -1,0 +1,11 @@
+Autrice;Slogan
+Gene Simmons;""Il trucco è semplicemente l’estensione della personalità e dei colori. L’abbigliamento, il trucco… tutto esprime qualcosa.""
+-;""Il viso è una tela dove poter creare un dipinto""
+Lady Gaga;""Sia che io abbia addosso un sacco di trucco o sia senza trucco, dentro sono sempre la stessa persona""
+Coco Chanel;""Se siete tristi, se avete un problema d’amore, truccatevi, mettetevi il rossetto rosso e attaccate""
+Charles Revson;""In fabbrica produciamo cosmetici, in negozio vendiamo speranza""
+Helena Rubinstein;"Non esistono donne brutte, ma solo donne pigre"
+Marilyn Monroe;"Le donne sono dotate di due armi formidabili: il trucco e le lacrime. Fortunatamente per gli uomini, non possono essere utilizzate contemporaneamente."
+Fabrizio Caramagna;"Il trucco non è solo un’arma di seduzione, ma un prendersi cura di sé. Splendere fuori per splendere dentro."
+Pamela Anderson;"Per una bellezza naturale, servono ogni giorno due ore allo specchio."
+Rene Konig;"La cosmesi è probabilmente antica quanto l’umanità."
